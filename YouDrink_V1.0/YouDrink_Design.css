@@ -13,6 +13,10 @@ h1 {
     padding: 15px;
     margin-bottom: 10px;
     border-radius: 10px;
+    text-align: center;
+    font-size: 30pt;
+    font-style: italic;
+    color: blue;
 }
 
 .Drink_Font {
