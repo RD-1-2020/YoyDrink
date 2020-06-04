@@ -15,7 +15,6 @@ h1 {
     border-radius: 10px;
     text-align: center;
     font-size: 40pt;
-    font-style: italic;
     color: blue;
 }
 
@@ -23,5 +22,6 @@ h1 {
     font-size: 25pt;
     text-align: right;
     margin-top: 10px;
-    color: wheat;
+    color: black;
+    font-style: italic;
 }
