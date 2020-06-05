@@ -28,7 +28,7 @@ input {
     color: white;
     height: 75px;
     font-size: 20pt;
-    background-image: url(https://73.img.avito.st/208x156/8346607973.jpg);
+    background-image: url("https://73.img.avito.st/208x156/8346607973.jpg");
 }
 
 input img {
