@@ -1,11 +1,7 @@
-h1 {
-    color: blue;
-    background-color: red;
-}
-
-.RD {
-    color: white;
-    background-color: tomato;
+body {
+    font-size: 18pt;
+    color: black;
+    background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fw-dog.ru%2Fwallpaper%2Fsigarety-vodka-stolichnaya-butylka-belomorkanal%2Fid%2F339699%2F&psig=AOvVaw3Omfp6sUn6JSvpbFhLWdC_&ust=1591446340103000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMCev-DV6ukCFQAAAAAdAAAAABAI);
 }
 
 .sects {
@@ -24,4 +20,8 @@ h1 {
     margin-top: 10px;
     color: black;
     font-style: italic;
+}
+
+.ButilkaVodki {
+    font-size: 16pt;
 }
