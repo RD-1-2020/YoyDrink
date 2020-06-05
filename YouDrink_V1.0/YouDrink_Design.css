@@ -1,17 +1,51 @@
 body {
     font-size: 18pt;
     color: black;
-    background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fw-dog.ru%2Fwallpaper%2Fsigarety-vodka-stolichnaya-butylka-belomorkanal%2Fid%2F339699%2F&psig=AOvVaw3Omfp6sUn6JSvpbFhLWdC_&ust=1591446340103000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMCev-DV6ukCFQAAAAAdAAAAABAI);
+    background-size: cover;
+    background-image: url("https://w-dog.ru/wallpapers/13/19/340397017372370/sigarety-vodka-stolichnaya-butylka-belomorkanal.jpg");
 }
 
-.sects {
-    background-color: red;
-    padding: 15px;
-    margin-bottom: 10px;
-    border-radius: 10px;
+body img {
+    display: block;
+    width: 20px;
+    height: 20px;
+    margin: auto;
+}
+
+#VodkaImg {
+    background-image: url("https://99px.ru/sstorage/53/2015/02/tmb_123862_6953.jpg");
+    background-size: cover;
+    background-position-y: -350px;
+}
+
+#VodkaImg img {
+    display: block;
+    margin: auto;
+}
+
+input {
+    width: 200px;
+    color: white;
+    height: 75px;
+    font-size: 20pt;
+    background-image: url(https://73.img.avito.st/208x156/8346607973.jpg);
+}
+
+input img {
+    display: block;
+}
+
+#VodkaImg p {
     text-align: center;
     font-size: 40pt;
     color: blue;
+}
+
+.sects {
+    background-color: black;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 20px;
 }
 
 .Drink_Font {
@@ -22,6 +56,38 @@ body {
     font-style: italic;
 }
 
-.ButilkaVodki {
-    font-size: 16pt;
+.Drink_Font2 .Drink_Font {
+    font-size: 18px;
+    text-align: left;
+    font-style: oblique;
+}
+
+
+/* NAVBAR */
+
+.navbar {
+    background-color: #9cb7c8;
+    font-size: 1em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #000000;
+    padding: 8px 5px 8px 5px;
+    margin-bottom: 5px;
+}
+
+.navbar a {
+    text-decoration: none;
+    background-color: #9cb7f0;
+    border-bottom: 10px;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.navbar-brand {
+    font-size: 1.2em;
+    font-weight: 600;
+}
+
+.navbar-item {
+    font-variant: small-caps;
+    margin-left: 30px;
 }
